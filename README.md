@@ -91,7 +91,7 @@ YuKman's Pong/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/yukman-pong.git
+git clone https://github.com/YumanKh/YuKman-s-pong.git
 ```
 
 2. Download [SFML 3.0.2](https://www.sfml-dev.org/download.php) for Visual C++ 64-bit
